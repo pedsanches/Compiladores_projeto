@@ -1,4 +1,4 @@
-REGRA,ESQUERDA,DIREITA,TAM,PT_V
+REGRA,A,B,TAM,PT_V
 1,P',P,1,0
 2,P,inicio V A,3,0
 3,V,varinicio LV,2,0
